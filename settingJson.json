@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4,
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#7c0068",
+        "activityBar.foreground": "#d7dae0",
+        "activityBar.background": "#23272e",
+        "sideBar.background": "#15161b",
+        "tab.activeBorder": "#ffffff",
+        "activityBar.inactiveForeground": "#50a33f",
+        "terminal.foreground": "#b4b4b4",
+        "terminal.background": "#000000",
+        "editor.background": "#202432"
+    },
+
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "prettier.printWidth": 110,
+    "terminal.integrated.tabs.location": "left",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.colorTheme": "One Dark Pro Flat"
+}
